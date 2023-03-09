@@ -1,0 +1,53 @@
+_repo: The-suppression-of-tuberculosis-b-Together-with-observations-concerning-phthisiogenesis-in-ma__70133
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bolduan, Charles
+    alias: Bolduan, Charles Frederick
+    birthdate: 1873
+    deathdate: 1950
+    gutenberg_agent_id: '55617'
+    url: http://www.gutenberg.org/2009/agents/55617
+creator:
+  author:
+    agent_name: Behring, Emil von
+    aliases:
+    - Von Behring, Emil
+    - Behring, Emil Adolph von
+    - Behring, E. (Emil)
+    birthdate: 1854
+    deathdate: 1917
+    gutenberg_agent_id: '55616'
+    url: http://www.gutenberg.org/2009/agents/55616
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Emil_von_Behring
+    - https://en.wikipedia.org/wiki/Emil_von_Behring
+description: '"The principal article is translated from a lecture delivered in Cassel,
+  September 25, 1903 ... The two articles, "Observations on phthisiogenesis" and "Suggestions
+  concerning the hygiene of cow stables" are taken from Beiträge zur experimentellen
+  therapie, no. 8, 1904."'
+gutenberg_issued: '2023-02-25'
+identifiers:
+  gutenberg: '70133'
+  lccn: '04027667'
+language: en
+pgterms:marc904: https://archive.org/details/suppressionoftub00behr
+pgterms:marc905: 20201229100651behring
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Peter Becker, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bJohn Wiley & sons, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tuberculosis -- Prevention'
+- !lcc 'RC'
+- GITenberg
+title: "The suppression of tuberculosis\r\n$b Together with observations concerning\
+  \ phthisiogenesis in man and animals and suggestions concerning the hygiene of cow\
+  \ stables and the production of milk for infant-feeding, with special reference\
+  \ to tuberculosis"
+url: http://www.gutenberg.org/ebooks/70133
