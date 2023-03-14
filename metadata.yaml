@@ -8,6 +8,9 @@ contributor:
     deathdate: 1950
     gutenberg_agent_id: '55617'
     url: http://www.gutenberg.org/2009/agents/55617
+covers:
+- cover_type: archival
+  image_path: 70133-h/images/cover.jpg
 creator:
   author:
     agent_name: Behring, Emil von
@@ -26,6 +29,8 @@ description: '"The principal article is translated from a lecture delivered in C
   September 25, 1903 ... The two articles, "Observations on phthisiogenesis" and "Suggestions
   concerning the hygiene of cow stables" are taken from Beiträge zur experimentellen
   therapie, no. 8, 1904."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70133#The-suppression-of-tuberculosis-b-Together-with-observations-concerning-phthisiogenesis-in-ma_
 gutenberg_issued: '2023-02-25'
 identifiers:
   gutenberg: '70133'
